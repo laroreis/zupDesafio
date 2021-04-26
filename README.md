@@ -12,6 +12,11 @@
  <a href="#-funcionalidades">Funcionalidades</a> •
  <a href="#-autora">Autora</a> • 
   
+  ## Sobre o Projeto
+  
+  O Desafio da Zup, é a segunda fase, do processo seletivo da Orange Talents, um bootcamp para desenvolvedor jr. Foi proposto um artigo estilo post de blog para a contruição de um API REST com o objetivo de controle de endereços.
+  
+  
   ## Primeiros Passos
   
  1. Use o site [Sprint](https://start.spring.io/) para fazer o Maven do API.
